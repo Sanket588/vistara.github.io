@@ -1,0 +1,262 @@
+body{
+    
+    
+    background: grey;
+    margin: 0;
+/*    font-size: larger;*/
+}
+.container{
+    
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0px 9px 13px 5px;
+
+}
+.header{
+    background-color:white;
+   margin: 0 auto; 
+    padding: 45px 0 20px 40px;
+        
+      text-decoration: none;
+    text-decoration-color: white;
+    font-family: "Arial Narrow","MYraid Pro";
+    
+}
+.menu{
+    background:#3b7687;
+    padding: 6px 0 6px 40 px ; 
+    
+    
+}
+#ft
+{
+    
+    font-size: large;
+}
+.menu a{
+    color: #c5d6db;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: cursive;
+    font-variant: petite-caps;
+    
+    
+}
+.menu a:hover{
+    
+    
+    color: #ecf2f3
+}
+
+
+
+
+
+aside {
+    float: left;
+    width: 120 px;
+    padding: 30 px 0 0 40 px;
+}
+    h1{
+        
+        margin: 0px;
+        color: :#869843;
+        font-size: 24px;
+        font-family: "Arial Narrow","MYraid Pro";
+    }
+
+h2{
+    color:#3b7687;
+    font-size: 15px;
+    margin: 20px 0  5px 0;
+    
+}
+
+.main{
+    
+    margin:0 0 0 180px;
+    padding: 35px 40px 30px 0px;
+    color:#444444;
+    font-family: "Georgia";
+    font-size: 13px;
+    line-height: 18px;
+    text-emphasis: justify;
+    
+}
+.main a:hover{
+    
+    color:4444444;
+}
+
+
+#home-image img{
+    width: 70%;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 9px 13px 5px;
+    
+}
+
+
+footer{
+    
+    
+    padding:6px 40px 6px 40 px;
+    background: #6d6d6d6d;
+    font-family: "Lucida Sans Unicode";
+    color: #444444;
+    font-size: 11px;
+    text-decoration: right;
+}
+.footer a{
+    
+    text-decoration: none;
+    color: #262626;
+    
+}
+.title-link
+{
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bolder;
+    color:black;
+    font-family: inherit; 
+    
+}
+.seperator{
+    
+    color: #FFFFFF;
+    font-size: 11px;
+    
+    
+}
+
+.sub-heading{
+    font-size: 18;
+    background-color: darkorange;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 9px 13px 5px;
+  
+}
+
+.np{
+    
+    font-size: x-large;
+    font-family: cursive;
+    color: darkblue;
+    box-shadow: darkslategrey;
+    
+}
+
+.nik{
+    
+    font-family: cursive;
+    font-size: initial;
+     color:  aliceblue;
+    
+}
+/*****8About page styles----------------*/
+#about-page #home-image img{
+    width: 70%;
+    
+    float: left;
+    margin-bottom: 20px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 9px 13px 5px;
+        
+}
+#about-page #profile-info{
+    
+    
+    float: right;
+     width: 20%;
+}
+
+
+
+#about-page .description{
+    clear: both;
+    font-family: cursive;
+    font-weight: 600;
+    font-size:15px;
+    
+}
+
+
+
+/* contact page */
+ 
+
+#contact #form {
+width: 500;
+    
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    box-shadow: 0px 9px 13px 5px;
+border-radius: 5px;
+    width: max-content ;
+}
+
+
+#contact .page-heading{
+    
+    text-align: center;
+    
+}
+#contact #form input {
+    
+    width: 100%;
+    border-radius: 5px;
+    height: 20px;
+    background: beige;
+    
+}
+
+#contact #form #message{
+    
+     width: 100%;
+    border-radius: 5px;
+    
+    background: beige;
+    
+}
+#contact #form #submit{
+    
+    height: 35px;
+    color: black;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 700;
+}
+/*****8About page styles----------------*/
+
+
+#csrimg
+{
+    width: auto;
+padding: 10px 10px 10px 10px;
+   
+    
+}
+#size
+{
+    
+    font-size: large;
+}
+#para
+{
+    font-size: large;
+    
+}
+#para3{
+    
+     font-size: large;
+}
+#para4
+{
+    font-size: large;
+}
+#para5
+{
+    font-size: large;
+}

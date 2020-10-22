@@ -1,0 +1,141 @@
+ 
+
+
+
+ 
+#nav-bar
+{
+
+   float: right ;
+	position: sticky;
+	top:0;
+	z-index: 10;
+	width: 100%;
+	
+}
+.navbar-brand img
+{
+	height: 60px;
+	padding-left: 30px;
+}
+.navbar-nav li
+{
+ 
+	padding: 0 10px;
+}
+.navbar-nav li a
+{
+
+	float: right;
+	text-align: left;
+}
+#nav-bar ul li a:hover
+{
+     border: 10px;
+     
+     background-color: #ddd;
+	
+}
+.navbar
+{
+
+	background: #7f7f7f;
+}
+.navbar-toggler
+{
+	border:none!important;
+}
+.nav-link
+{
+	color: #555!important
+	font-weight:600;
+	font-size: 16px;
+}
+#slider
+{
+	height: 10%;
+	width: 100%;
+}
+.carousel-caption
+{
+
+    top: 50%;
+   transform: translateY(-50%);
+   bottom: initial!important;	
+}
+.carousel-caption h5
+{
+   color: #fff;
+	font-size: 42px;
+}
+
+/*--about----*/
+
+#about
+{
+
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color:#555;
+}
+#about .btn
+{
+
+	margin-top:20px;
+	margin-bottom: 30px; 
+}
+.about-content
+{
+	padding-top: :20px; 
+}
+
+.services
+{
+
+	margin-top: 40px;
+}
+.icon
+{
+	font-size:40px;
+	margin: 20px auto;
+	padding: 20px;
+	height: 80px;
+	width: 80px; 
+	border:1px solid #fff;
+
+	border-radius: 50%;	 
+}
+.services .col-md-3:hover
+{
+	background: #007bff;
+	cursor: pointer;
+	transition:0.7s; 
+}
+
+
+
+
+#topBtn{
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  font-size: 22px;
+  width: 50px;
+  height: 50px;
+  background: #e74c3c;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: none;
+}
+
+.container
+{
+	max-width: 1140px;
+	
+}
+
+
+
+
+
